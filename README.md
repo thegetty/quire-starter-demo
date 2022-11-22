@@ -1,1 +1,1 @@
-## Quire default starter project template
+## Quire Demo starter project template
